@@ -1,1 +1,1 @@
-# object-orineted
+# object-oriented
